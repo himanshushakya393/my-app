@@ -1,0 +1,33 @@
+# Core libraries
+streamlit==1.46.0
+pandas==2.2.3
+numpy==2.2.5
+openpyxl==3.1.5
+
+# Visualization
+plotly==6.1.2
+matplotlib==3.10.3
+seaborn==0.13.2
+altair==5.5.0
+
+# PDF/Export
+fpdf==1.7.2
+xlsxwriter==3.2.5
+kaleido==1.0.0
+
+# General web & system
+requests==2.32.3
+beautifulsoup4==4.13.4
+
+# Optional ML / stats
+scikit-learn==1.7.0
+statsmodels==0.14.5
+
+# For handling file types
+filetype==1.2.0
+
+# For working with Google Sheets if needed
+gspread==6.2.1
+oauthlib==3.3.1
+google-auth==2.40.3
+google-auth-oauthlib==1.2.2
